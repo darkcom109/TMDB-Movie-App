@@ -18,7 +18,9 @@ Browse trending movies, view details, and pretend you’re a film critic.
 ```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/yourusername/TMDB-Movie-App.git
+```
 
+```bash
 # 2️⃣ Navigate into the project folder
 cd TMDB-Movie-App
 
@@ -33,5 +35,6 @@ EXPO_PUBLIC_APPWRITE_PROJECT_ID=
 EXPO_PUBLIC_APPWRITE_DATABASE_ID=
 EXPO_PUBLIC_APPWRITE_COLLECTION_ID=
 
-# 4️⃣ Start the Expo development server
+# 5️⃣ Start the Expo development server
 npx expo start
+```
