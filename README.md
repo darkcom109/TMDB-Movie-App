@@ -15,6 +15,7 @@ Browse trending movies, view details, and pretend you’re a film critic.
 
 ## 📦 Installation & Setup
 
+Clone the repository
 ```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/yourusername/TMDB-Movie-App.git
@@ -23,18 +24,23 @@ git clone https://github.com/yourusername/TMDB-Movie-App.git
 ```bash
 # 2️⃣ Navigate into the project folder
 cd TMDB-Movie-App
+```
 
+```bash
 # 3️⃣ Install dependencies
 npm install
 # or
 yarn install
-
+```
+```bash
 # 4️⃣ Set up a .env file with the following
 EXPO_PUBLIC_MOVIE_API_KEY=
 EXPO_PUBLIC_APPWRITE_PROJECT_ID=
 EXPO_PUBLIC_APPWRITE_DATABASE_ID=
 EXPO_PUBLIC_APPWRITE_COLLECTION_ID=
+```
 
+```bash
 # 5️⃣ Start the Expo development server
 npx expo start
 ```
