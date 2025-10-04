@@ -15,7 +15,6 @@ Browse trending movies, view details, and pretend you’re a film critic.
 
 ## 📦 Installation & Setup
 
-Clone the repository
 ```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/yourusername/TMDB-Movie-App.git
