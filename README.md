@@ -4,11 +4,8 @@
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/-TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-
 
 A sleek React Native app built with [Expo](https://expo.dev) that fetches and displays movie data using the [TMDB API](https://www.themoviedb.org/documentation/api).  
 Browse trending movies, view details, and pretend you’re a film critic.
